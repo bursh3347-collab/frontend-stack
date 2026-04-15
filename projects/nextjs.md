@@ -5,7 +5,7 @@
 | Metric | Data |
 |------|------|
 | GitHub | [vercel/next.js](https://github.com/vercel/next.js) |
-| Stars | ~133,000 |
+| Stars | 138,939 |
 | License | MIT |
 | Language | TypeScript/JavaScript |
 | Maintainer | Vercel |
@@ -15,7 +15,7 @@
 | Dimension | Score | Reasoning |
 |------|------|------|
 | T (Tech) | 96 | App Router, Server Components, Server Actions, Middleware, ISR, SSG, SSR. The most feature-complete React framework. |
-| E (Ecosystem) | 98 | 133k stars. Backed by Vercel ($3.2B+ valuation). Used by Netflix, TikTok, Twitch, Nike, etc. |
+| E (Ecosystem) | 98 | 139k stars. Backed by Vercel ($3.2B+ valuation). Used by Netflix, TikTok, Twitch, Nike, etc. |
 | M (Market) | 92 | Dominant React framework. Default choice for new React projects in 2024-2026. |
 | C (Combo) | 98 | **Foundation of base tech stack**. Everything else builds on Next.js. |
 | **Overall** | **95.6** | |
@@ -36,3 +36,7 @@
 - Complexity increasing with each major version
 - Server Components learning curve
 - Some community friction around App Router adoption
+
+## 天子点评
+
+基准栈核心，不可替代。每个项目的起点。139k Stars不是虚名——全球最大的React全栈框架，Vercel持续投入保证了长期稳定。一人公司用Next.js = 一个框架搞定前后端，效率最大化。
